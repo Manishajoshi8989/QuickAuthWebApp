@@ -1,0 +1,103 @@
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\appsettings.json
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.staticwebassets.runtime.json
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.exe
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.deps.json
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.runtimeconfig.json
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.dll
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.pdb
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.csproj.AssemblyReference.cache
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.AssemblyInfoInputs.cache
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.AssemblyInfo.cs
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.csproj.CoreCompileInputs.cache
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.RazorAssemblyInfo.cache
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.RazorAssemblyInfo.cs
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\scopedcss\bundle\QuickAuthApp.styles.css
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\scopedcss\projectbundle\QuickAuthApp.bundle.scp.css
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.dll
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\refint\QuickAuthApp.dll
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.pdb
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.genruntimeconfig.cache
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\ref\QuickAuthApp.dll
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\a00555078\source\repos\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.csproj.CopyComplete
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\appsettings.json
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.staticwebassets.runtime.json
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.exe
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.deps.json
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.runtimeconfig.json
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.dll
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.pdb
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.csproj.AssemblyReference.cache
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.AssemblyInfoInputs.cache
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.AssemblyInfo.cs
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.csproj.CoreCompileInputs.cache
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.RazorAssemblyInfo.cache
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.RazorAssemblyInfo.cs
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\scopedcss\bundle\QuickAuthApp.styles.css
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\scopedcss\projectbundle\QuickAuthApp.bundle.scp.css
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.csproj.CopyComplete
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.dll
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\refint\QuickAuthApp.dll
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.pdb
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.genruntimeconfig.cache
+C:\Users\a00555078\OneDrive - ONEVIRTUALOFFICE\Desktop\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\ref\QuickAuthApp.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\appsettings.Development.json
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\appsettings.json
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.staticwebassets.runtime.json
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.exe
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.deps.json
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.runtimeconfig.json
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\QuickAuthApp.pdb
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\FluentValidation.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\MediatR.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Application.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Application.pdb
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.csproj.AssemblyReference.cache
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.AssemblyInfoInputs.cache
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.AssemblyInfo.cs
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.csproj.CoreCompileInputs.cache
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\scopedcss\bundle\QuickAuthApp.styles.css
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.csproj.CopyComplete
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\refint\QuickAuthApp.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.pdb
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\QuickAuthApp.genruntimeconfig.cache
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\obj\Debug\net6.0\ref\QuickAuthApp.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Domain.dll
+C:\dev\QuickAuthApp\QuickAuthApp\QuickAuthApp\bin\Debug\net6.0\Domain.pdb

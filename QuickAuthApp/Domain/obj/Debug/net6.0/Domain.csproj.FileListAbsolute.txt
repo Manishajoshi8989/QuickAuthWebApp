@@ -1,0 +1,12 @@
+C:\dev\QuickAuthApp\QuickAuthApp\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\dev\QuickAuthApp\QuickAuthApp\Domain\bin\Debug\net6.0\Domain.dll
+C:\dev\QuickAuthApp\QuickAuthApp\Domain\bin\Debug\net6.0\Domain.pdb
+C:\dev\QuickAuthApp\QuickAuthApp\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\dev\QuickAuthApp\QuickAuthApp\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\QuickAuthApp\QuickAuthApp\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\dev\QuickAuthApp\QuickAuthApp\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\dev\QuickAuthApp\QuickAuthApp\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\dev\QuickAuthApp\QuickAuthApp\Domain\obj\Debug\net6.0\Domain.dll
+C:\dev\QuickAuthApp\QuickAuthApp\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\dev\QuickAuthApp\QuickAuthApp\Domain\obj\Debug\net6.0\Domain.pdb
+C:\dev\QuickAuthApp\QuickAuthApp\Domain\obj\Debug\net6.0\ref\Domain.dll
